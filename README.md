@@ -1,3 +1,7 @@
+
+!DEPRECATED!
+Moved to https://gitlab.zitronenhain.space/pub/magic-lemon
+
 # magic-lemon
 A little project with lemons and ESP32
 
